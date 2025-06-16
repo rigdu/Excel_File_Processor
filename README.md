@@ -1,4 +1,4 @@
-# Excel File Processor
+# Excel Row Duplicator
 
 A Python Tkinter app for processing Excel files with drag-and-drop support. This is require for the pproject of Contact lens Grid generator.
 
